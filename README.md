@@ -66,8 +66,6 @@ Here’s a snapshot of NAOgest in action:
 
 [![Watch the Demo](./simulations/nao_enviorment.png)](https://youtu.be/BPYxfBqmkpc?si=XXl-XrVqvyerRFt5)
 
-Click the thumbnail above to watch the NAOgest simulation in action.
-
 ---
 
 ## Installation
