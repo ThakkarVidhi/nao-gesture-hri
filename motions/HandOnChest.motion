@@ -1,0 +1,6 @@
+#WEBOTS_MOTION,V1.0,RShoulderPitch,RShoulderRoll,RElbowYaw,RElbowRoll,RWristYaw,RPhalanx1,RPhalanx2,RPhalanx3,RPhalanx4,RPhalanx5,RPhalanx6,RPhalanx7,RPhalanx8,LShoulderPitch
+00:00:000,Neutral,     1.49797,    0,  0,    0,    0,  0,    0,  0,    0,  0,    0,  0,    0,  1.49797
+00:00:500,ArmRaise, 0.8,        0.3,    0.5,    1.5,    1.1,    0.9,    0.9,    0.9,    0.9,    0.9,    0.3,    0.9,    0.9,    1.49797
+00:01:000,ChestTouch, 0.7,        0.3,    0.4,    1.5,    1.1,   0.9,    0.9,    0.9,    0.9,    0.9,    0.3,    0.9,    0.9,     1.49797
+00:01:500,Empathize,   0.7,        0.3,    0.4,    1.5,    1.1,   0.9,    0.9,    0.9,    0.9,    0.9,    0.3,    0.9,    0.9,     1.49797
+00:06:000,EndPose,   1.49797,        0,  0,    0,    0,  0,    0,  0,    0,  0,    0,  0,    0,  1.49797
